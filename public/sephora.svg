@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" fill="#000000" />
+  
+  <!-- Sephora's signature elegant white flame/wave (S-curve) -->
+  <path d="M268,60 
+           C255,120 220,165 262,230
+           C300,285 270,350 231,400
+           C240,350 282,285 244,232
+           C208,172 248,120 268,60 Z" 
+        fill="#ffffff" />
+        
+  <!-- Bold modern uppercase typeface for SEPHORA -->
+  <text x="264" y="460" 
+        font-family="'Inter', 'Helvetica Neue', 'Segoe UI', system-ui, sans-serif" 
+        font-size="44" 
+        font-weight="700" 
+        fill="#ffffff" 
+        text-anchor="middle" 
+        letter-spacing="14">SEPHORA</text>
+</svg>
